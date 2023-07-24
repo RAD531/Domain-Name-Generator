@@ -6,4 +6,5 @@
 
 <p>Please see preview below</p>
 
-<img href="src/assets/img/rigo-baby.jpg" alt="domain-level-preview">
+<img href="src/assets/img/Domain-Name-Preview.jpg" alt="domain-level-preview">
+

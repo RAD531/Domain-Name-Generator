@@ -6,6 +6,6 @@
 
 <p>Please see preview below</p>
 
-<img href="src\assets\img\Domain-Name-Preview.JPG" alt="domain-level-preview">
+<img src="src\assets\img\Domain-Name-Preview.JPG" alt="domain-level-preview">
 
 
